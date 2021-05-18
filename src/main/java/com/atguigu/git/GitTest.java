@@ -31,5 +31,7 @@ public class GitTest {
 
         System.out.println("pull test44444");
 
+        System.out.println("git test5555");
+
     }
 }
